@@ -25,6 +25,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
   greetings = ["Hi", "Hello", "Howdy", "Hey"]
+  greetings[0] #=> "Hi"
 end
 
 def retrieve_first_element_from_array(array)
